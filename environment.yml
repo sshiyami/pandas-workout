@@ -1,0 +1,12 @@
+name: ml
+channels:
+  - defaults
+dependencies:
+  - python=3.12
+  - pandas
+  - scikit-learn
+  - matplotlib
+  - ipykernel
+  - jupyter
+  - numpy
+prefix: C:\Users\User\miniconda3\envs\ml
